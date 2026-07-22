@@ -119,7 +119,7 @@ This repository is a part of my continuous journey to improve my:
 
 ## 🌐 Coding Profiles
 
-* **GeeksforGeeks:** https://www.geeksforgeeks.org/profile/gunjanse1w6w
+* **GeeksforGeeks:** (https://www.geeksforgeeks.org/profile/gunjanse1w6w)
 * **LeetCode:** (https://leetcode.com/u/Gunjan_Sengar20)
 * **GitHub:** (https://github.com/GunjanSengar)
 * **LinkedIn:** (https://www.linkedin.com/in/gunjan-sengar-a325b6295)
